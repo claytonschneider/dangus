@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          hello feature 1
+          hello featu
         </p>
       </div>
     );
