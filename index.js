@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          hello fea
+          push from local
         </p>
       </div>
     );
