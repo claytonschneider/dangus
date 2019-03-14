@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Hello dang dingle
+          Hello dang disdfdfsngle
         </p>
       </div>
     );
